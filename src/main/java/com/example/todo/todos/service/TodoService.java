@@ -1,8 +1,8 @@
-package com.example.todo.service;
+package com.example.todo.todos.service;
 
-import com.example.todo.dto.TodoRequest;
-import com.example.todo.entity.Todo;
-import com.example.todo.repository.TodoRepository;
+import com.example.todo.todos.dto.TodoRequest;
+import com.example.todo.todos.entity.Todo;
+import com.example.todo.todos.repository.TodoRepository;
 
 import org.springframework.http.HttpStatus;
 import org.springframework.stereotype.Service;

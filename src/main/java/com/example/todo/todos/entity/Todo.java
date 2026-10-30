@@ -1,4 +1,4 @@
-package com.example.todo.entity;
+package com.example.todo.todos.entity;
 
 import jakarta.persistence.*;
 

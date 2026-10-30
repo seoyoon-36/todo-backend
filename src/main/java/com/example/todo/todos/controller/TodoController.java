@@ -1,8 +1,8 @@
-package com.example.todo.controller;
+package com.example.todo.todos.controller;
 
-import com.example.todo.dto.TodoRequest;
-import com.example.todo.entity.Todo;
-import com.example.todo.service.TodoService;
+import com.example.todo.todos.dto.TodoRequest;
+import com.example.todo.todos.entity.Todo;
+import com.example.todo.todos.service.TodoService;
 
 import jakarta.validation.Valid;
 
